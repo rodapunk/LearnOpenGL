@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1FC7AA5F-3A5C-4262-BBF2-5E63A8A1B657}|HelloTwoTriangles\\HelloTwoTriangles.vcxproj|C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\HelloTwoTriangles\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1FC7AA5F-3A5C-4262-BBF2-5E63A8A1B657}|HelloTwoTriangles\\HelloTwoTriangles.vcxproj|solutionrelative:HelloTwoTriangles\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\HelloTwoTriangles\\Main.cpp",
-              "RelativeDocumentMoniker": "HelloTwoTriangles\\Main.cpp",
-              "ToolTip": "C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\HelloTwoTriangles\\Main.cpp",
-              "RelativeToolTip": "HelloTwoTriangles\\Main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-06T22:18:21.056Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
