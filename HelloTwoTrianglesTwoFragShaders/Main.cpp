@@ -133,7 +133,7 @@ int main() {
 	glGenBuffers(2, VBOs);
 
 	// first triangle setup
-	// bind the Vertex Array Object first, then bind and set vertex buffer(s), and then configure vertex attributes(s).
+	// bind the Vertex Array Object first, then bind and set vertex buffer(s), and then configure vertex attributes(s)
 	glBindVertexArray(VAOs[0]);
 
 	glBindBuffer(GL_ARRAY_BUFFER, VBOs[0]);
@@ -159,7 +159,7 @@ int main() {
 	//glBindBuffer(GL_ARRAY_BUFFER, 0);
 	//glBindVertexArray(0); // not really necessary as well, but beware of calls that could affect VAOs while this one is bound (like binding element buffer objects, or enabling/disabling vertex attributes)
 
-	// uncomment this call to draw in wireframe polygons.
+	// uncomment this call to draw in wireframe polygons
 	//glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
 
 	// render loop
