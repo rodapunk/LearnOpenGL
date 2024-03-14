@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B11EE83-80E0-40C7-9528-7630D91BA893}|HelloTriangleColor\\HelloTriangleColor.vcxproj|C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\HelloTriangleColor\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B11EE83-80E0-40C7-9528-7630D91BA893}|HelloTriangleColor\\HelloTriangleColor.vcxproj|solutionrelative:HelloTriangleColor\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\HelloTriangleColor\\Main.cpp",
+              "RelativeDocumentMoniker": "HelloTriangleColor\\Main.cpp",
+              "ToolTip": "C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\HelloTriangleColor\\Main.cpp",
+              "RelativeToolTip": "HelloTriangleColor\\Main.cpp",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAIsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T23:25:10.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
