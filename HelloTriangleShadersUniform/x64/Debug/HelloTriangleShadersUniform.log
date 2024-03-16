@@ -1,6 +1,0 @@
-﻿  glad.c
-  Main.cpp
-C:\Users\estev\vs-workspace\LearnOpenGL\HelloTriangleShadersUniform\shader.h(90,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-  (compiling source file 'Main.cpp')
-  
-  HelloTriangleShadersUniform.vcxproj -> C:\Users\estev\vs-workspace\LearnOpenGL\x64\Debug\HelloTriangleShadersUniform.exe
