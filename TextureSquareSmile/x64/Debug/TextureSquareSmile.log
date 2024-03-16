@@ -1,1 +1,3 @@
-﻿  TextureSquareSmile.vcxproj -> C:\Users\estev\vs-workspace\LearnOpenGL\x64\Debug\TextureSquareSmile.exe
+﻿  glad.c
+  Main.cpp
+  TextureSquareSmile.vcxproj -> C:\Users\estev\vs-workspace\LearnOpenGL\x64\Debug\TextureSquareSmile.exe

@@ -1,2 +1,3 @@
-﻿  Main.cpp
+﻿  glad.c
+  Main.cpp
   ShadersUniformOffset.vcxproj -> C:\Users\estev\vs-workspace\LearnOpenGL\x64\Debug\ShadersUniformOffset.exe
