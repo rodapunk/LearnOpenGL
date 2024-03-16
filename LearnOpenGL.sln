@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloTriangleTwoVAOsVBOs", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextureSquareWooden", "TextureSquareWooden\TextureSquareWooden.vcxproj", "{7AE0132E-0AB0-4A42-87E7-8FC034BFC900}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextureSquareSmile", "TextureSquareSmile\TextureSquareSmile.vcxproj", "{752DA628-664F-47A8-8FBA-2E2D5722EEB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{7AE0132E-0AB0-4A42-87E7-8FC034BFC900}.Release|x64.Build.0 = Release|x64
 		{7AE0132E-0AB0-4A42-87E7-8FC034BFC900}.Release|x86.ActiveCfg = Release|Win32
 		{7AE0132E-0AB0-4A42-87E7-8FC034BFC900}.Release|x86.Build.0 = Release|Win32
+		{752DA628-664F-47A8-8FBA-2E2D5722EEB2}.Debug|x64.ActiveCfg = Debug|x64
+		{752DA628-664F-47A8-8FBA-2E2D5722EEB2}.Debug|x64.Build.0 = Debug|x64
+		{752DA628-664F-47A8-8FBA-2E2D5722EEB2}.Debug|x86.ActiveCfg = Debug|Win32
+		{752DA628-664F-47A8-8FBA-2E2D5722EEB2}.Debug|x86.Build.0 = Debug|Win32
+		{752DA628-664F-47A8-8FBA-2E2D5722EEB2}.Release|x64.ActiveCfg = Release|x64
+		{752DA628-664F-47A8-8FBA-2E2D5722EEB2}.Release|x64.Build.0 = Release|x64
+		{752DA628-664F-47A8-8FBA-2E2D5722EEB2}.Release|x86.ActiveCfg = Release|Win32
+		{752DA628-664F-47A8-8FBA-2E2D5722EEB2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

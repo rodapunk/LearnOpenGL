@@ -137,9 +137,6 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="shader.h" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="3.3.texture.fs" />
     <None Include="3.3.texture.vs" />
   </ItemGroup>
