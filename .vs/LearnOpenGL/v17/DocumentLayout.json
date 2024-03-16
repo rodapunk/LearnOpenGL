@@ -1,12 +1,72 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE0132E-0AB0-4A42-87E7-8FC034BFC900}|TextureSquareWooden\\TextureSquareWooden.vcxproj|C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\TextureSquareWooden\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AE0132E-0AB0-4A42-87E7-8FC034BFC900}|TextureSquareWooden\\TextureSquareWooden.vcxproj|solutionrelative:TextureSquareWooden\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE0132E-0AB0-4A42-87E7-8FC034BFC900}|TextureSquareWooden\\TextureSquareWooden.vcxproj|C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\TextureSquareWooden\\3.3.texture.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7AE0132E-0AB0-4A42-87E7-8FC034BFC900}|TextureSquareWooden\\TextureSquareWooden.vcxproj|solutionrelative:TextureSquareWooden\\3.3.texture.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE0132E-0AB0-4A42-87E7-8FC034BFC900}|TextureSquareWooden\\TextureSquareWooden.vcxproj|C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\TextureSquareWooden\\3.3.texture.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7AE0132E-0AB0-4A42-87E7-8FC034BFC900}|TextureSquareWooden\\TextureSquareWooden.vcxproj|solutionrelative:TextureSquareWooden\\3.3.texture.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3.3.texture.fs",
+              "DocumentMoniker": "C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\TextureSquareWooden\\3.3.texture.fs",
+              "RelativeDocumentMoniker": "TextureSquareWooden\\3.3.texture.fs",
+              "ToolTip": "C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\TextureSquareWooden\\3.3.texture.fs",
+              "RelativeToolTip": "TextureSquareWooden\\3.3.texture.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-16T13:10:46.106Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\TextureSquareWooden\\Main.cpp",
+              "RelativeDocumentMoniker": "TextureSquareWooden\\Main.cpp",
+              "ToolTip": "C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\TextureSquareWooden\\Main.cpp",
+              "RelativeToolTip": "TextureSquareWooden\\Main.cpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T13:11:00.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3.3.texture.vs",
+              "DocumentMoniker": "C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\TextureSquareWooden\\3.3.texture.vs",
+              "RelativeDocumentMoniker": "TextureSquareWooden\\3.3.texture.vs",
+              "ToolTip": "C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\TextureSquareWooden\\3.3.texture.vs",
+              "RelativeToolTip": "TextureSquareWooden\\3.3.texture.vs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-16T13:10:45.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
