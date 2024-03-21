@@ -26,3 +26,6 @@ Change more than one commit after push:
 2. press i and change the word 'pick' to 'reword', after leave with esc : w q
 3. press i to edit message, after leave with esc : w q
 4. git push --force-with-lease
+
+Git push with force:
+1. git push origin master -f
