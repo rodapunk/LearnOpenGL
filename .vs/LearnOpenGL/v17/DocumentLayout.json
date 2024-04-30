@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{794184F3-02D8-47CB-BA9B-80CD13733082}|HelloTriangle\\HelloTriangle.vcxproj|C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\HelloTriangle\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{794184F3-02D8-47CB-BA9B-80CD13733082}|HelloTriangle\\HelloTriangle.vcxproj|solutionrelative:HelloTriangle\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\HelloTriangle\\Main.cpp",
+              "RelativeDocumentMoniker": "HelloTriangle\\Main.cpp",
+              "ToolTip": "C:\\Users\\estev\\vs-workspace\\LearnOpenGL\\HelloTriangle\\Main.cpp",
+              "RelativeToolTip": "HelloTriangle\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T01:18:42.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
