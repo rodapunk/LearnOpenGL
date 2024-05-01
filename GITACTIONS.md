@@ -26,3 +26,9 @@ Change more than one commit after push:
 
 Git push with force:
 1. git push origin master -f
+
+Update remote repo after gitignore update:
+1. git rm -r --cached .
+2. git add .
+3. git commit -m "message"
+4. git push
