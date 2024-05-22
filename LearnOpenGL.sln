@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CameraTenCubesWalk", "Camer
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CameraTenCubesMouse", "CameraTenCubesMouse\CameraTenCubesMouse.vcxproj", "{DC5E53E7-52AE-44DE-8516-58A9B1318B77}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CameraOwnClass", "CameraOwnClass\CameraOwnClass.vcxproj", "{4B65B0DB-3E1B-48F2-A927-BE143ADC4658}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -271,6 +273,14 @@ Global
 		{DC5E53E7-52AE-44DE-8516-58A9B1318B77}.Release|x64.Build.0 = Release|x64
 		{DC5E53E7-52AE-44DE-8516-58A9B1318B77}.Release|x86.ActiveCfg = Release|Win32
 		{DC5E53E7-52AE-44DE-8516-58A9B1318B77}.Release|x86.Build.0 = Release|Win32
+		{4B65B0DB-3E1B-48F2-A927-BE143ADC4658}.Debug|x64.ActiveCfg = Debug|x64
+		{4B65B0DB-3E1B-48F2-A927-BE143ADC4658}.Debug|x64.Build.0 = Debug|x64
+		{4B65B0DB-3E1B-48F2-A927-BE143ADC4658}.Debug|x86.ActiveCfg = Debug|Win32
+		{4B65B0DB-3E1B-48F2-A927-BE143ADC4658}.Debug|x86.Build.0 = Debug|Win32
+		{4B65B0DB-3E1B-48F2-A927-BE143ADC4658}.Release|x64.ActiveCfg = Release|x64
+		{4B65B0DB-3E1B-48F2-A927-BE143ADC4658}.Release|x64.Build.0 = Release|x64
+		{4B65B0DB-3E1B-48F2-A927-BE143ADC4658}.Release|x86.ActiveCfg = Release|Win32
+		{4B65B0DB-3E1B-48F2-A927-BE143ADC4658}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
