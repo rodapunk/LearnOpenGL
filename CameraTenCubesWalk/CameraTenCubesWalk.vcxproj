@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{feab3ac5-09c2-4ad5-b768-28315d51728f}</ProjectGuid>
-    <RootNamespace>CameraTenCubesRotate</RootNamespace>
+    <ProjectGuid>{a9af69d4-209e-4b2c-8ab7-fae6952e42eb}</ProjectGuid>
+    <RootNamespace>CameraTenCubesWalk</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>CameraTenCubesRotate</ProjectName>
+    <ProjectName>CameraTenCubesWalk</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
